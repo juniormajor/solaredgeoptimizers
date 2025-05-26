@@ -11,11 +11,11 @@
   "iot_class": "cloud_polling",
   "issue_tracker": "https://github.com/ProudElm/solaredgeoptimizers/issues",
   "requirements": [
-    "solaredgeoptimizers==1.0.12",
+    "solaredgeoptimizers==1.2.5",
     "jsonfinder==0.4.2"
   ],
   
   "ssdp": [],  
-  "version": "1.2.2",
+  "version": "1.2.5",
   "zeroconf": []
 }
