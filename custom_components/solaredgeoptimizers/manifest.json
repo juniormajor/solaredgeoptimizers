@@ -1,17 +1,17 @@
 {
   "domain": "solaredgeoptimizers",
-  "name": "SolarEdge Optimizers Data",
+  "name": "SolarEdge Optimizers Data New",
   "codeowners": [
-    "@proudelm"
+    "@juniormajor"
   ],
   "config_flow": true,
   "dependencies": [],
-  "documentation": "https://github.com/ProudElm/solaredgeoptimizers",
+  "documentation": "https://github.com/juniormajor/solaredgeoptimizers",
   "homekit": {},
   "iot_class": "cloud_polling",
-  "issue_tracker": "https://github.com/ProudElm/solaredgeoptimizers/issues",
+  "issue_tracker": "https://github.com/juniormajor/solaredgeoptimizers/issues",
   "requirements": [
-    "solaredgeoptimizers==1.0.12",
+    "solaredgeoptimizers==1.2.5",
     "jsonfinder==0.4.2"
   ],
   
