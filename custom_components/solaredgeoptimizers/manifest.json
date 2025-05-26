@@ -11,7 +11,7 @@
   "iot_class": "cloud_polling",
   "issue_tracker": "https://github.com/juniormajor/solaredgeoptimizers/issues",
   "requirements": [
-    "solaredgeoptimizers==1.2.6",
+    "solaredgeoptimizers==1.2.5",
     "jsonfinder==0.4.2"
   ],
   
