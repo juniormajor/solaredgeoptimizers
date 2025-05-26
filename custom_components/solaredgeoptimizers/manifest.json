@@ -11,11 +11,11 @@
   "iot_class": "cloud_polling",
   "issue_tracker": "https://github.com/juniormajor/solaredgeoptimizers/issues",
   "requirements": [
-    "solaredgeoptimizers==1.2.5",
+    "solaredgeoptimizers==1.2.6",
     "jsonfinder==0.4.2"
   ],
   
   "ssdp": [],  
-  "version": "1.2.5",
+  "version": "1.2.6",
   "zeroconf": []
 }
